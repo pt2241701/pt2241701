@@ -1,0 +1,6 @@
+Dans son livre, David Foenkinos parle de sa propre famille.|Vrai|Faux|On ne sait pas| |On ne sait pas
+Le grand-père était très malade.|Vrai|Faux|On ne sait pas| |Vrai
+Le grand-père n'était pas conscient de son état.|Vrai|Faux|On ne sait pas| |Faux
+Son petit-fils n'a pas pu lui dire qu'il l'aimait.|Vrai|Faux|On ne sait pas| |Vrai
+Le narrateur veut écrire une lettre à son grand-père.|Vrai|Faux|On ne sait pas| |On ne sait pas
+David Foenkinos a écrit La Délicatesse avec son frère.|Vrai|Faux|On ne sait pas| |Faux

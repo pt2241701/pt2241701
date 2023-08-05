@@ -1,0 +1,8 @@
+Une AMAP est une association pour le maintien de l'agriculture paysanne|Vrai|Faux|On ne sait pas| |Vrai
+Certaines AMAP regroupent plusieurs producteurs agricoles|Vrai|Faux|On ne sait pas| |On ne sait pas
+Seuls certains consommateurs peuvent faire partie d'une AMAP|Vrai|Faux|On ne sait pas| |Faux
+Chaque consommateur membre de TAMAP achéte une partie de la production de l'agriculteur|Vrai|Faux|On ne sait pas| |Vrai
+Les membres de 'AMAP peuvent payer leur part sous forme d'échange d’heures de travail|Vrai|Faux|On ne sait pas| |Vrai
+Les membres de 'TAMAP peuvent choisir leurs produits.|Vrai|Faux|On ne sait pas| |Faux
+Les consommateurs sont siirs d'avoir des produits frais.|Vrai|Faux|On ne sait pas| |Vrai
+Le fermier peut vendre une partie de sa production a des commerces d'alimentation|Vrai|Faux|On ne sait pas| |On ne sait pas

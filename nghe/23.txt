@@ -1,0 +1,6 @@
+Lenvironnement est un secteur porteur.|Vrai|Faux|On ne sait pas| |Vrai
+L'environnement offre des emplois durables.|Vrai|Faux|On ne sait pas| |On ne sait pas
+On trouve un verdissement des métiers dans l'agriculture.|Vrai|Faux|On ne sait pas| |On ne sait pas
+Les jeunes espèrent observer les animaux.|Vrai|Faux|On ne sait pas| |Vrai
+Il y a beaucoup de postes disponibles dans le développement durable.|Vrai|Faux|On ne sait pas| |Faux
+Il est obligatoire de faire du bénévolat pendant ses études.|Vrai|Faux|On ne sait pas| |Faux

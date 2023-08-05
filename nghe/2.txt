@@ -1,0 +1,10 @@
+Jacqueline a fait du qi gong|Vrai|Faux|On ne sait pas| |Vrai
+Quand on fait du qi gong, on bouge moins|Vrai|Faux|On ne sait pas| |Vrai
+L'urban training est un sport d'equipe|Vrai|Faux|On ne sait pas| |Faux
+L'inscription a l'urban training est chere|Vrai|Faux|On ne sait pas| |On ne sait pas
+Il faut etre tres experimente pour gaire l'urban training|Vrai|Faux|On ne sait pas| |Faux
+La seance dure environ une heure|Vrai|Faux|On ne sait pas| |Vrai
+Les mouvements s'effectuent en fonction de l'environnement urban|Vrai|Faux|On ne sait pas| |Vrai
+Une seance comporte 4 etapes|Vrai|Faux|On ne sait pas| |Faux
+L'urban training demande un equipement special|Vrai|Faux|On ne sait pas| |Faux
+Il faut boire au moins un litre d'eau pendant la seance|Vrai|Faux|On ne sait pas| |On ne sait pas

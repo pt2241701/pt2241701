@@ -1,0 +1,7 @@
+Le règlement protège...|les abonnés.|les demandes.|les données.|On ne sait pas|les données.
+Oui.sncf respecte...|ses échéances.|ses engagements.|ses options.|On ne sait pas|ses engagements.
+Vous avez la possibilité de demander.|l'effacement de vos données.|le remplacement de vos données.|le déplacement de vos données.|On ne sait pas|l'effacement de vos données.
+Quel type de données peuvent-elles etre transmises ?|Données d'identification.|Données de résiliation.|Données légales.|On ne sait pas|Données d'identification.
+Vous avez la possibilité d'envoyer..|par courrier électronique.|parfax.|par courrier express.|On ne sait pas|par courrier électronique.
+Pour exercer son droit d'opposition...|il faut avoir un compte client.|il faut être abonné à la newsletter.|il n'est pas nécessaire d'avoir un compte elient.|On ne sait pas|il faut être abonné à la newsletter.
+Vous pouvez exercer votre droit d'opposition...|par newsletter.|par courrier.|par téléphone.|On ne sait pas|par courrier.

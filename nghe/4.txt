@@ -1,0 +1,6 @@
+Madame Bonnefoy va chez le medecin|parce qu'elle dort mal|pour lui demander des medicaments|parce qu'elle se sent fatiguee|parce qu'elle toujours envie de dormir|parce qu'elle toujours envie de dormir
+Madame Bonnefoy...|explique au medecin ce qu'est la luminotherapie|demande des precisions sur la luminotherapie|voudrait essayer la luminotherapie|voudrait aller dans un entre de luminotherapie|voudrait essayer la luminotherapie
+Madame Bonnefoy...|manque d'appetit|souffre de depression saisonniere|souffre de la maladie du sommeil|souffre d'empoisonnement par les medicaments|souffre de depression saisonniere
+Cette maladie est frequente|au Mozambique|en Amerique|au Mexique|dans les pays nordiques|dans les pays nordiques
+La luminotherapie est efficace parce qu'elle...|simule le soleil|complete les mediacments|n'agit pas sur le sommeil|reduit le manque de soleil|reduit le manque de soleil
+La luminotherapie necessite une lampe...|de 500 lux minimum|de 1500 lux minimum| placee 40 cm de la personne|avec des filtres contre les mauvais rayons|avec des filtres contre les mauvais rayons
