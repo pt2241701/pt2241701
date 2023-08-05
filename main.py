@@ -522,18 +522,6 @@ class MainWindow(QMainWindow):
 
 
 if __name__ == '__main__':
-    import sys
-    required_libraries = ['pygame', 'PyQt5', 'matplotlib', 'numpy']
-    for library in required_libraries:
-        try:
-            __import__(library)
-        except ImportError:
-            print(f"Cài đặt thư viện {library}...")
-            try:
-                subprocess.check_call([sys.executable, "-m", "pip", "install", library])
-                print(f"Đã cài đặt thành công thư viện {library}.")
-            except subprocess.CalledProcessError:
-                print(f"Có lỗi khi cài đặt thư viện {library}. Vui lòng cài đặt thủ công.")
     app = QApplication(sys.argv)
     login = LoginDialog()
     login.exec_()
