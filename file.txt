@@ -1,0 +1,245 @@
+Comment forme-t-on le passé composé en français ?|Verbe + avoir|Verbe + être|Verbe + être ou avoir ou aller|Verbe + aller|Verbe + avoir
+Quel est le pronom personnel sujet de la première personne du pluriel ?|Je|Tu|Il/Elle|Nous|Nous
+Quelle est la règle pour accorder les adjectifs en genre et en nombre en français ?|L'adjectif s'accorde avec le sujet en genre et en nombre.|L'adjectif s'accorde avec le complément d'objet direct en genre et en nombre.|L'adjectif s'accorde avec le complément d'objet indirect en genre et en nombre.|L'adjectif ne s'accorde pas en français.|L'adjectif s'accorde avec le sujet en genre et en nombre.
+Comment forme-t-on le subjonctif présent en français ?|Radical du verbe + ais/ais/as/ions/iez/aient|Radical du verbe + é/ée/es/ons/ez/ent|Radical du verbe + ais/ais/ait/ions/iez/aient|Radical du verbe + é/ée/es/ent/ons/ez|Radical du verbe + ais/ais/as/ions/iez/aient
+Quelle est la différence entre les pronoms "ce" et "cela" ?|"Ce" est un pronom personnel et "cela" est un pronom démonstratif.| "Ce" est un pronom démonstratif et "cela" est un pronom personnel.| "Ce" et "cela" sont des pronoms démonstratifs.| "Ce" et "cela" sont des pronoms personnels.| "Ce" est un pronom personnel et "cela" est un pronom démonstratif.
+Comment former le présent de l'indicatif en français ?|Radical du verbe + e/es/e/ons/ez/ent|Radical du verbe + ais/ais/ait/ions/iez/aient|Radical du verbe + é/ée/es/ent/ons/ez|Radical du verbe + ais/ais/as/ions/iez/aient|Radical du verbe + e/es/e/ons/ez/ent
+Quelle est la différence entre les verbes "aller" et "venir" ?|"Aller" est un verbe d'action et "venir" est un verbe de mouvement.| "Aller" est un verbe de mouvement et "venir" est un verbe d'action.| "Aller" et "venir" sont des verbes d'action.| "Aller" et "venir" sont des verbes de mouvement.| "Aller" est un verbe de mouvement et "venir" est un verbe d'action.
+Comment accorder les adjectifs numéraux en français ?|Les adjectifs numéraux s'accordent en genre et en nombre avec le nom qu'ils qualifient.|Les adjectifs numéraux ne s'accordent pas en français.|Les adjectifs numéraux s'accordent seulement en genre avec le nom qu'ils qualifient.|Les adjectifs numéraux s'accordent seulement en nombre avec le nom qu'ils qualifient.|Les adjectifs numéraux s'accordent en genre et en nombre avec le nom qu'ils qualifient.
+Comment former le passé simple en français ?|Radical du verbe + ai/as/a/âmes/âtes/èrent|Radical du verbe + e/es/e/ons/ez/ent|Radical du verbe + ais/ais/ait/ions/iez/aient|Radical du verbe + é/ée/es/ent/ons/ez|Radical du verbe + ai/as/a/âmes/âtes/èrent
+Quelle est la différence entre les verbes "savoir" et "connaître" ?|"Savoir" exprime la connaissance intellectuelle et "connaître" exprime la connaissance personnelle.| "Savoir" exprime la connaissance personnelle et "connaître" exprime la connaissance intellectuelle.| "Savoir" et "connaître" expriment tous les deux la connaissance intellectuelle.| "Savoir" et "connaître" expriment tous les deux la connaissance personnelle.| "Savoir" exprime la connaissance intellectuelle et "connaître" exprime la connaissance personnelle.
+Comment former le conditionnel présent en français ?|Radical du verbe + ais/ais/ait/ions/iez/aient|Radical du verbe + é/ée/es/ent/ons/ez|Radical du verbe + ai/as/a/âmes/âtes/èrent|Radical du verbe + e/es/e/ons/ez/ent|Radical du verbe + ais/ais/as/ions/iez/aient
+Quelle est la règle d'accord de l'adjectif qualificatif en français ?|L'adjectif qualificatif s'accorde en genre et en nombre avec le nom qu'il qualifie.|L'adjectif qualificatif ne s'accorde pas en français.|L'adjectif qualificatif s'accorde seulement en genre avec le nom qu'il qualifie.|L'adjectif qualificatif s'accorde seulement en nombre avec le nom qu'il qualifie.|L'adjectif qualificatif s'accorde en genre et en nombre avec le nom qu'il qualifie.
+Comment former le participe présent en français ?|Radical du verbe + ant|Radical du verbe + é/ée/es/ent/ons/ez|Radical du verbe + ais/ais/as/ions/iez/aient|Radical du verbe + e/es/e/ons/ez/ent|Radical du verbe + u/us/ue/ues
+Quelle est la différence entre les pronoms "ceci" et "cela" ?|"Ceci" est utilisé pour désigner quelque chose de proche et "cela" est utilisé pour désigner quelque chose d'éloigné.| "Ceci" est utilisé pour désigner quelque chose d'éloigné et "cela" est utilisé pour désigner quelque chose de proche.| "Ceci" et "cela" sont des pronoms personnels.| "Ceci" et "cela" sont des pronoms démonstratifs.| "Ceci" est utilisé pour désigner quelque chose de proche et "cela" est utilisé pour désigner quelque chose d'éloigné.
+Comment former le futur simple en français ?|Infinitif du verbe + ai/as/a/ons/ez/ont|Radical du verbe + ais/ais/as/ions/iez/aient|Radical du verbe + é/ée/es/ent/ons/ez|Infinitif du verbe + é/ée/es/ent/ons/ez|Infinitif du verbe + ai/as/a/âmes/âtes/ont
+Quelle est la différence entre les verbes "pouvoir" et "vouloir" ?|"Pouvoir" exprime la capacité et "vouloir" exprime le désir.| "Pouvoir" exprime le désir et "vouloir" exprime la capacité.| "Pouvoir" et "vouloir" expriment tous les deux la capacité.| "Pouvoir" et "vouloir" expriment tous les deux le désir.| "Pouvoir" exprime la capacité et "vouloir" exprime le désir.
+Comment former le passé antérieur en français ?|Verbe "avoir" ou "être" au passé simple + participe passé du verbe conjugué|Radical du verbe + é/ée/es/ent/ons/ez|Radical du verbe + ais/ais/as/ions/iez/aient|Radical du verbe + e/es/e/ons/ez/ent|Verbe "avoir" ou "être" au passé composé + participe passé du verbe conjugué
+Comment former l'imparfait en français ?|Radical du verbe + ais/ais/ait/ions/iez/aient|Radical du verbe + é/ée/es/ent/ons/ez|Radical du verbe + ai/as/a/ons/ez/ont|Radical du verbe + e/es/e/ons/ez/ent|Radical du verbe + u/us/ue/ues
+Comment former le subjonctif imparfait en français ?|Radical du verbe + e/s/e/ions/iez/ent|Radical du verbe + ais/ais/ait/ions/iez/aient|Radical du verbe + é/ée/es/ent/ons/ez|Radical du verbe + ais/ais/as/ions/iez/aient|Radical du verbe + e/s/e/ions/iez/ent
+Quelle est la différence entre les verbes "être" et "avoir" en tant qu'auxiliaires ?|"Être" est utilisé avec les verbes de mouvement et de changement d'état et "avoir" est utilisé avec les autres verbes.| "Avoir" est utilisé avec les verbes de mouvement et de changement d'état et "être" est utilisé avec les autres verbes.| "Être" et "avoir" sont utilisés indifféremment avec tous les verbes.| "Être" et "avoir" sont utilisés seulement avec les verbes réflexifs.| "Être" est utilisé avec les verbes de mouvement et de changement d'état et "avoir" est utilisé avec les autres verbes.
+Comment former le subjonctif présent du verbe "aller" en français ?|Aille|Allions|Ailles|Alliez|Aillent
+Comment former le participe passé en français ?|Radical du verbe + é/ée/es/ent|Radical du verbe + ais/ais/ait/ions/iez/aient|Radical du verbe + e/es/e/ons/ez/ent|Radical du verbe + u/us/ue/ues|Radical du verbe + é/ée/es/ent
+Quelle est la différence entre les pronoms "ce" et "cette" en français ?|"Ce" est utilisé pour désigner quelque chose de général et "cette" est utilisé pour désigner quelque chose de spécifique.| "Cette" est utilisé pour désigner quelque chose de général et "ce" est utilisé pour désigner quelque chose de spécifique.| "Ce" et "cette" sont des pronoms personnels.| "Ce" et "cette" sont des pronoms démonstratifs.| "Ce" est utilisé pour désigner quelque chose de général et "cette" est utilisé pour désigner quelque chose de spécifique.
+Comment former le subjonctif présent en français ?|Radical du verbe + e/es/e/ions/iez/ent|Radical du verbe + ais/ais/ait/ions/iez/aient|Radical du verbe + é/ée/es/ent/ons/ez|Radical du verbe + ais/ais/as/ions/iez/aient|Radical du verbe + e/s/e/ions/iez/ent
+Quelle est la différence entre les pronoms "y" et "en" en français ?|"Y" est utilisé pour remplacer un lieu et "en" est utilisé pour remplacer une quantité.| "En" est utilisé pour remplacer un lieu et "y" est utilisé pour remplacer une quantité.| "Y" et "en" sont des pronoms personnels.| "Y" et "en" sont des pronoms démonstratifs.| "Y" est utilisé pour remplacer un lieu et "en" est utilisé pour remplacer une quantité.
+Comment former le futur antérieur en français ?|Futur simple du verbe "avoir" ou "être" + participe passé du verbe conjugué|Radical du verbe + é/ée/es/ent/ons/ez|Radical du verbe + ais/ais/as/ions/iez/aient|Radical du verbe + e/es/e/ons/ez/ent|Futur simple du verbe "aller" + infinitif du verbe conjugué
+Quelle est la règle d'accord de l'adverbe en français ?|L'adverbe ne s'accorde jamais en français.|L'adverbe s'accorde en genre et en nombre avec le nom qu'il modifie.|L'adverbe s'accorde seulement en genre avec le nom qu'il modifie.|L'adverbe s'accorde seulement en nombre avec le nom qu'il modifie.|L'adverbe ne s'accorde jamais en français.
+Comment former le conditionnel passé en français ?|Conditionnel présent du verbe "avoir" ou "être" + participe passé du verbe conjugué|Radical du verbe + e/es/e/ons/ez/ent + participe passé du verbe conjugué|Radical du verbe + ais/ais/as/ions/iez/aient + participe passé du verbe conjugué|Radical du verbe + é/ée/es/ent/ons/ez + participe passé du verbe conjugué|Conditionnel présent du verbe "aller" + infinitif du verbe conjugué
+Quelle est la différence entre les pronoms "qui" et "que" en français ?|"Qui" est utilisé pour remplacer le sujet et "que" est utilisé pour remplacer l'objet direct.| "Que" est utilisé pour remplacer le sujet et "qui" est utilisé pour remplacer l'objet direct.| "Qui" et "que" sont des pronoms personnels.| "Qui" et "que" sont des pronoms démonstratifs.| "Qui" est utilisé pour remplacer le sujet et "que" est utilisé pour remplacer l'objet direct.
+Comment former le passé composé en français ?|Auxiliaire "avoir" ou "être" au présent + participe passé du verbe conjugué|Radical du verbe + é/ée/es/ent|Radical du verbe + ais/ais/ait/ions/iez/aient|Radical du verbe + e/es/e/ons/ez/ent|Auxiliaire "aller" au présent + infinitif du verbe conjugué
+Quelle est la règle d'accord du participe passé en français ?|Le participe passé s'accorde en genre et en nombre avec le sujet dans les temps composés avec l'auxiliaire "avoir".|Le participe passé s'accorde en genre et en nombre avec l'objet direct dans les temps composés avec l'auxiliaire "avoir".|Le participe passé ne s'accorde jamais en français.|Le participe passé s'accorde en genre et en nombre avec le sujet dans les temps composés avec l'auxiliaire "être".|Le participe passé s'accorde en genre et en nombre avec l'objet direct dans les temps composés avec l'auxiliaire "être".
+Comment former le plus-que-parfait en français ?|Imparfait de l'auxiliaire "avoir" ou "être" + participe passé du verbe conjugué|Radical du verbe + é/ée/es/ent|Radical du verbe + ais/ais/ait/ions/iez/aient|Radical du verbe + e/es/e/ons/ez/ent|Plus-que-parfait de l'auxiliaire "aller" + infinitif du verbe conjugué
+Quelle est la règle d'accord du participe présent en français ?|Le participe présent s'accorde en genre et en nombre avec le sujet.|Le participe présent ne s'accorde jamais en français.|Le participe présent s'accorde en genre et en nombre avec l'objet direct.|Le participe présent s'accorde seulement en genre avec le sujet.|Le participe présent s'accorde seulement en nombre avec le sujet.
+Comment former le conditionnel présent en français ?|Radical du verbe + ais/ais/as/ions/iez/aient|Radical du verbe + é/ée/es/ent/ons/ez|Radical du verbe + e/es/e/ons/ez/ent|Conditionnel présent du verbe "aller" + infinitif du verbe conjugué|Conditionnel présent du verbe "avoir" ou "être" + participe passé du verbe conjugué
+Quelle est la différence entre les verbes "savoir" et "connaître" en français ?|"Savoir" est utilisé pour exprimer une connaissance ou un savoir-faire, tandis que "connaître" est utilisé pour exprimer une connaissance ou une familiarité.| "Connaître" est utilisé pour exprimer une connaissance ou un savoir-faire, tandis que "savoir" est utilisé pour exprimer une connaissance ou une familiarité.| "Savoir" et "connaître" sont des synonymes complets.| "Savoir" et "connaître" sont des antonymes.| "Savoir" est utilisé pour exprimer une connaissance ou un savoir-faire, tandis que "connaître" est utilisé pour exprimer une connaissance ou une familiarité.
+Quel est l'adjectif possessif pour "tu" ?|ton|sa|leur|notre|ton
+Quel est l'article défini pour "le livre" ?|le|un|une|les|le
+Quel est l'article indéfini pour "chaise" ?|une|le|la|les|une
+Quel est le pronom relatif pour "qui" ?|dont|où|que|quoi|dont
+Quel est le verbe irrégulier pour "aller" ?|être|avoir|faire|venir|être
+Quel est le temps de verbe pour "je mangeais" ?|l'imparfait|le passé composé|le futur simple|le conditionnel présent|l'imparfait
+Quel est le pronom personnel pour "nous" ?|on|il|elle|ils|nous
+Quel est le pronom démonstratif pour "ce livre" ?|celui-ci|celle-ci|ceux-ci|celles-ci|celui-ci
+Quel est le pronom interrogatif pour "qui" ?|qui|quoi|comment|où|qui
+Quel est l'adverbe pour "bien" ?|bien|mal|vite| lentement|bien
+Quel est le pronom indéfini pour "quelqu'un" ?|quelqu'un|personne|rien|tout|quelqu'un
+Quel est l'article partitif pour "du pain" ?|du|de la|de l'|des|du
+Quel est le pronom possessif pour "elle" ?|sa|son|leur|nos|son
+Quel est le pronom réfléchi pour "je" ?|me|te|se|nous|me
+Quelle est la préposition pour "à côté de" ?|à côté de|au-dessus de|en face de|derrière|à côté de
+Quel est le pronom personnel pour "ils" ?|il|elle|on|nous|ils
+Quel est le temps de verbe pour "je vais manger" ?|le futur proche|le passé composé|le plus-que-parfait|le présent|le futur proche
+Quel est le pronom relatif pour "que" ?|dont|où|qui|quoi|que
+Quel est le verbe irrégulier pour "vouloir" ?|pouvoir|aller|être|avoir|vouloir
+Quel est l'adjectif démonstratif pour "ces livres" ?|ceux-ci|celle-ci|celui-ci|celles-ci|ceux-ci
+Quel est le pronom possessif pour "nous" ?|notre|son|leur|mes|notre
+Quel est l'adverbe pour "toujours" ?|toujours|jamais|peu|beaucoup|toujours
+Quel est l'article défini pour "les enfants" ?|les|un|une|le|les
+Quel est le pronom interrogatif pour "quoi" ?|quoi|qui|comment|où|quoi
+Quel est l'article indéfini pour "chapeau" ?|un|le|la|les|un
+Quel est le pronom indéfini pour "rien" ?|rien|personne|quelque chose|tout|rien
+Quel est le pronom réfléchi pour "tu" ?|te|me|se|nous|te
+Quel est le pronom démonstratif pour "cette robe" ?|celle-ci|ceux-ci|celui-ci|celles-ci|celle-ci
+Quel est l'article partitif pour "des pommes" ?|des|du|de la|de l'|des
+Quel est le temps de verbe pour "je viendrai" ?|le futur simple|l'imparfait|le passé composé|le conditionnel présent|le futur simple
+Quel est le pronom personnel pour "vous" ?|il|elle|on|nous|vous
+Quel est le temps de verbe pour "tu mangeras" ?|le futur simple|le passé composé|le plus-que-parfait|l'imparfait|le futur simple
+Quel est le pronom relatif pour "où" ?|dont|où|qui|quoi|où
+Quel est le verbe irrégulier pour "pouvoir" ?|pouvoir|aller|être|avoir|pouvoir
+Quel est l'adjectif démonstratif pour "ces stylos" ?|ceux-ci|celle-ci|celui-ci|celles-ci|ceux-ci
+Quel est le pronom possessif pour "elle" ?|sa|son|leur|mes|sa
+Quel est l'adverbe pour "peu" ?|peu|jamais|toujours|beaucoup|peu
+Quel est l'article défini pour "les chiens" ?|les|un|une|le|les
+Quel est le pronom interrogatif pour "où" ?|où|qui|quoi|comment|où
+Quel est l'article indéfini pour "stylo" ?|un|le|la|les|un
+Quel est le pronom indéfini pour "personne" ?|personne|quelque chose|rien|tout|personne
+Quel est le pronom réfléchi pour "elle" ?|se|me|te|nous|se
+Quel est le pronom démonstratif pour "cette maison" ?|celle-ci|ceux-ci|celui-ci|celles-ci|celle-ci
+Quel est l'article partitif pour "du fromage" ?|du|de la|de l'|des|du
+Quel est le temps de verbe pour "nous avions mangé" ?|le plus-que-parfait|le passé composé|le futur simple|l'imparfait|le plus-que-parfait
+Quel est le pronom personnel pour "nous" ?|il|elle|on|nous|nous
+Quel est le temps de verbe pour "je suis allé(e)" ?|le passé composé|le futur simple|le plus-que-parfait|l'imparfait|le passé composé
+Quel est le pronom relatif pour "qui" ?|dont|où|qui|quoi|qui
+Quel est le verbe irrégulier pour "aller" ?|aller|pouvoir|être|avoir|aller
+Quel est l'adjectif démonstratif pour "cette table" ?|celle-ci|ceux-ci|celui-ci|celles-ci|celle-ci
+Quel est le pronom possessif pour "tu" ?|ton|son|leur|mes|ton
+Quel est l'adverbe pour "beaucoup" ?|beaucoup|jamais|toujours|peu|beaucoup
+Quel est l'article défini pour "le livre" ?|le|un|une|les|le
+Quel est le pronom interrogatif pour "qui" ?|qui|quoi|comment|où|qui
+Quel est l'article indéfini pour "chaise" ?|une|un|le|les|une
+Quel est le pronom indéfini pour "tout" ?|tout|personne|quelque chose|rien|tout
+Quel est le pronom réfléchi pour "vous" ?|vous|me|se|nous|vous
+Quel est le pronom démonstratif pour "ces maisons" ?|ceux-ci|celle-ci|celui-ci|celles-ci|celles-ci
+Quel est l'article partitif pour "du pain" ?|du|de la|de l'|des|du
+Quel est le temps de verbe pour "je parlerais" ?|le conditionnel présent|l'imparfait|le passé composé|le futur simple|le conditionnel présent
+Quel est le pronom personnel pour "ils/elles" ?|il|elle|on|nous|ils/elles
+Quel est le temps de verbe pour "nous irons" ?|le futur simple|le passé composé|le plus-que-parfait|l'imparfait|le futur simple
+Quel est le pronom relatif pour "quoi" ?|dont|où|qui|quoi|quoi
+Quel est le verbe irrégulier pour "être" ?|pouvoir|aller|être|avoir|être
+Quel est l'adjectif démonstratif pour "ces livres" ?|ceux-ci|celle-ci|celui-ci|celles-ci|ces livres
+Quel est le pronom possessif pour "elle" ?|sa|son|leur|mes|sa
+Quel est l'adverbe pour "toujours" ?|toujours|jamais|peu|beaucoup|toujours
+Quel est l'article défini pour "les étoiles" ?|les|un|une|le|les
+Quel est le pronom interrogatif pour "quoi" ?|quoi|qui|comment|où|quoi
+Quel est l'article indéfini pour "pomme" ?|une|un|le|les|une
+Quel est le pronom indéfini pour "rien" ?|rien|personne|quelque chose|tout|rien
+Quel est le pronom réfléchi pour "elle" ?|se|me|te|nous|se
+Quel est le pronom démonstratif pour "ce sac" ?|celui-ci|ceux-ci|celle-ci|celles-ci|celui-ci
+Quel est l'article partitif pour "de la farine" ?|de la|du|de l'|des|de la
+Quel est le temps de verbe pour "tu avais parlé" ?|l'imparfait|le passé composé|le futur simple|le plus-que-parfait|le plus-que-parfait
+Quel est le pronom personnel pour "elle" ?|il|elle|on|nous|elle
+Quel est le temps de verbe pour "ils ont mangé" ?|le passé composé|le futur simple|le plus-que-parfait|l'imparfait|le passé composé
+Quel est le pronom relatif pour "dont" ?|dont|où|qui|quoi|dont
+Quel est le verbe irrégulier pour "avoir" ?|pouvoir|aller|être|avoir|avoir
+Quel est l'adjectif démonstratif pour "cette voiture" ?|celle-ci|ceux-ci|celui-ci|celles-ci|celle-ci
+Quel est le pronom possessif pour "nous" ?|notre|son|leur|mes|notre
+Quel est l'adverbe pour "jamais" ?|jamais|toujours|peu|beaucoup|jamais
+Quel est l'article défini pour "la table" ?|la|un|une|les|la
+Quel est le pronom interrogatif pour "comment" ?|comment|qui|quoi|où|comment
+Quel est l'article indéfini pour "livre" ?|un|une|le|les|un
+Quel est le pronom indéfini pour "quelque chose" ?|quelque chose|personne|rien|tout|quelque chose
+Quel est le pronom réfléchi pour "nous" ?|nous|me|te|se|nous
+Quel est le pronom démonstratif pour "ces chaussures" ?|ceux-ci|celle-ci|celui-ci|celles-ci|ces chaussures
+Quel est l'article partitif pour "du lait" ?|du|de la|de l'|des|du
+Quel est le temps de verbe pour "tu parleras" ?|le futur simple|l'imparfait|le passé composé|le plus-que-parfait|le futur simple
+Quel est le pronom personnel pour "tu" ?|il|elle|on|tu|tu
+Quel est le temps de verbe pour "nous avons mangé" ?|le passé composé|le futur simple|le plus-que-parfait|l'imparfait|le passé composé
+Quel est le pronom relatif pour "où" ?|dont|où|qui|quoi|où
+Quel est le verbe irrégulier pour "faire" ?|pouvoir|aller|être|faire|faire
+Quel est l'adjectif démonstratif pour "cette chaise" ?|celle-ci|ceux-ci|celui-ci|celles-ci|celle-ci
+Quel est le pronom possessif pour "leur" ?|leur|son|notre|mes|leur
+Quel est l'adverbe pour "peu" ?|peu|jamais|toujours|beaucoup|peu
+Quel est l'article défini pour "les chiens" ?|les|un|une|le|les
+Quel est le pronom interrogatif pour "où" ?|où|qui|comment|quoi|où
+Quel est l'article indéfini pour "stylo" ?|un|une|le|les|un
+Quel est le pronom indéfini pour "personne" ?|personne|quelque chose|rien|tout|personne
+Quel est le pronom réfléchi pour "elle" ?|se|me|te|nous|se
+Quel est le pronom démonstratif pour "ce livre" ?|celui-ci|ceux-ci|celle-ci|celles-ci|celui-ci
+Quel est l'article partitif pour "de l'eau" ?|de l'|du|de la|des|de l'
+Quel est le temps de verbe pour "je parlais" ?|l'imparfait|le passé composé|le futur simple|le plus-que-parfait|l'imparfait
+Quel est le pronom personnel pour "nous" ?|il|elle|on|nous|nous
+Quel est le temps de verbe pour "tu as mangé" ?|le passé composé|le futur simple|le plus-que-parfait|l'imparfait|le passé composé
+Quel est le pronom relatif pour "qui" ?|dont|où|qui|quoi|qui
+Quel est le verbe irrégulier pour "aller" ?|pouvoir|aller|être|avoir|aller
+Quel est l'adjectif démonstratif pour "ce livre" ?|celui-ci|ceux-ci|celle-ci|celles-ci|ce livre
+Quel est le pronom possessif pour "mon" ?|mon|son|leur|mes|mon
+Quel est l'adverbe pour "beaucoup" ?|beaucoup|jamais|toujours|peu|beaucoup
+Quel est l'article défini pour "le chat" ?|le|un|une|les|le
+Quel est le pronom interrogatif pour "qui" ?|qui|où|comment|quoi|qui
+Quel est l'article indéfini pour "porte" ?|une|un|le|les|une
+Quel est le pronom indéfini pour "tout" ?|tout|personne|quelque chose|rien|tout
+Quel est le pronom réfléchi pour "tu" ?|te|me|se|nous|te
+Quel est le pronom démonstratif pour "ces crayons" ?|ceux-ci|celle-ci|celui-ci|celles-ci|ces crayons
+Quel est l'article partitif pour "du pain" ?|du|de la|de l'|des|du
+Quel est le temps de verbe pour "elle a mangé" ?|le passé composé|le futur simple|le plus-que-parfait|l'imparfait|le passé composé
+Quel est le pronom personnel pour "il" ?|il|elle|on|nous|il
+Quel est le temps de verbe pour "nous mangions" ?|l'imparfait|le passé composé|le futur simple|le plus-que-parfait|l'imparfait
+Quel est le pronom relatif pour "quoi" ?|dont|où|qui|quoi|quoi
+Quel est le verbe irrégulier pour "être" ?|pouvoir|aller|être|avoir|être
+Quel est l'adjectif démonstratif pour "ces livres" ?|ceux-ci|ce livre|celle-ci|celles-ci|ces livres
+Quel est le pronom possessif pour "leur" ?|leur|son|notre|mes|leur
+Quel est l'adverbe pour "toujours" ?|toujours|jamais|peu|beaucoup|toujours
+Quel est l'article défini pour "la fille" ?|la|un|une|les|la
+Quel est le pronom interrogatif pour "quoi" ?|quoi|qui|comment|où|quoi
+Quel est l'article indéfini pour "table" ?|une|un|le|les|une
+Quel est le pronom indéfini pour "rien" ?|rien|personne|quelque chose|tout|rien
+Quel est le pronom réfléchi pour "vous" ?|vous|me|te|se|vous
+Quel est le pronom démonstratif pour "ce stylo" ?|celui-ci|ceux-ci|celle-ci|celles-ci|ce stylo
+Quel est l'article partitif pour "de la viande" ?|de la|du|de l'|des|de la
+Quel est le temps de verbe pour "ils parleront" ?|le futur simple|l'imparfait|le passé composé|le plus-que-parfait|le futur simple
+Quel est le pronom personnel pour "elles" ?|il|elle|on|elles|elles
+Quel est le temps de verbe pour "je parlerai" ?|le futur simple|le passé composé|le plus-que-parfait|l'imparfait|le futur simple
+Quel est le pronom relatif pour "dont" ?|dont|où|qui|quoi|dont
+Quel est le verbe irrégulier pour "avoir" ?|pouvoir|aller|être|avoir|avoir
+Quel est l'adjectif démonstratif pour "cette robe" ?|celle-ci|ceux-ci|celui-ci|celles-ci|cette robe
+Quel est le pronom possessif pour "votre" ?|votre|son|leur|mes|votre
+Quel est l'adverbe pour "jamais" ?|jamais|toujours|peu|beaucoup|jamais
+Quel est l'article défini pour "le garçon" ?|le|un|une|les|le
+Quel est le pronom interrogatif pour "comment" ?|comment|qui|où|quoi|comment
+Quel est l'article indéfini pour "chaise" ?|une|un|le|les|une
+Quel est le pronom indéfini pour "quelque chose" ?|quelque chose|personne|rien|tout|quelque chose
+Quel est le pronom réfléchi pour "nous" ?|nous|me|te|se|nous
+Quel est le pronom démonstratif pour "ces chaussures" ?|ceux-ci|celle-ci|celui-ci|celles-ci|ces chaussures
+Quel est l'article partitif pour "du fromage" ?|du|de la|de l'|des|du
+Quel est le temps de verbe pour "tu avais mangé" ?|le plus-que-parfait|le passé composé|le futur simple|l'imparfait|le plus-que-parfait
+Quel est le pronom personnel pour "vous" ?|il|elle|on|vous|vous
+Quel est le temps de verbe pour "elle parlait" ?|l'imparfait|le passé composé|le futur simple|le plus-que-parfait|l'imparfait
+Quel est le pronom relatif pour "où" ?|dont|où|qui|quoi|où
+Quel est le verbe irrégulier pour "prendre" ?|pouvoir|aller|être|prendre|prendre
+Quel est l'adjectif démonstratif pour "ce sac" ?|celui-ci|ceux-ci|celle-ci|celles-ci|ce sac
+Quel est le pronom possessif pour "mes" ?|mon|son|leur|mes|mes
+Quel est l'adverbe pour "peu" ?|peu|toujours|jamais|beaucoup|peu
+Quel est l'article défini pour "les chiens" ?|les|un|une|le|les
+Quel est le pronom interrogatif pour "où" ?|où|comment|qui|quoi|où
+Quel est l'article indéfini pour "livre" ?|un|une|le|les|un
+Quel est le pronom indéfini pour "personne" ?|personne|quelque chose|rien|tout|personne
+Quel est le pronom réfléchi pour "elle" ?|se|me|te|nous|se
+Quel est le pronom démonstratif pour "ce manteau" ?|celui-ci|ceux-ci|celle-ci|celles-ci|ce manteau
+Quel est l'article partitif pour "de l'eau" ?|de l'|du|de la|des|de l'
+Quel est le temps de verbe pour "nous avons mangé" ?|le passé composé|le futur simple|le plus-que-parfait|l'imparfait|le passé composé
+Quel est le pronom personnel pour "tu" ?|il|elle|on|tu|tu
+Quel est le temps de verbe pour "nous avons parlé" ?|le passé composé|le futur simple|le plus-que-parfait|l'imparfait|le passé composé
+Quel est le pronom relatif pour "qui" ?|dont|où|qui|quoi|qui
+Quel est le verbe irrégulier pour "faire" ?|pouvoir|aller|être|faire|faire
+Quel est l'adjectif démonstratif pour "cette voiture" ?|celle-ci|ceux-ci|celui-ci|celles-ci|cette voiture
+Quel est le pronom possessif pour "leur" ?|leur|son|notre|mes|leur
+Quel est l'adverbe pour "beaucoup" ?|beaucoup|toujours|jamais|peu|beaucoup
+Quel est l'article défini pour "la pomme" ?|la|un|une|le|la
+Quel est le pronom interrogatif pour "qui" ?|qui|comment|où|quoi|qui
+Quel est l'article indéfini pour "voiture" ?|une|un|le|les|une
+Quel est le pronom indéfini pour "tout" ?|tout|personne|quelque chose|rien|tout
+Quel est le pronom réfléchi pour "je" ?|me|te|se|nous|me
+Quel est le pronom démonstratif pour "ces chaises" ?|ceux-ci|celle-ci|celui-ci|celles-ci|ces chaises
+Quel est l'article partitif pour "du pain" ?|du|de la|de l'|des|du
+Quel est le temps de verbe pour "ils avaient mangé" ?|le plus-que-parfait|le passé composé|le futur simple|l'imparfait|le plus-que-parfait
+Quel est le pronom personnel pour "il" ?|il|elle|on|nous|il
+Quel est le temps de verbe pour "tu parles" ?|le présent|le passé composé|le futur simple|le plus-que-parfait|le présent
+Quel est le pronom relatif pour "quoi" ?|dont|où|qui|quoi|quoi
+Quel est le verbe irrégulier pour "aller" ?|pouvoir|aller|être|faire|aller
+Quel est l'adjectif démonstratif pour "ces livres" ?|ceux-ci|celle-ci|celui-ci|celles-ci|ces livres
+Quel est le pronom possessif pour "notre" ?|notre|son|leur|mes|notre
+Quel est l'adverbe pour "toujours" ?|toujours|jamais|peu|beaucoup|toujours
+Quel est l'article défini pour "les filles" ?|les|un|une|le|les
+Quel est le pronom interrogatif pour "quoi" ?|quoi|comment|qui|où|quoi
+Quel est l'article indéfini pour "ordinateur" ?|un|une|le|les|un
+Quel est le pronom indéfini pour "rien" ?|rien|tout|personne|quelque chose|rien
+Quel est le pronom réfléchi pour "vous" ?|vous|me|te|se|vous
+Quel est le pronom démonstratif pour "ce livre" ?|celui-ci|ceux-ci|celle-ci|celles-ci|ce livre
+Quel est l'article partitif pour "de la confiture" ?|de la|du|de l'|des|de la
+Quel est le temps de verbe pour "elle avait mangé" ?|le plus-que-parfait|le passé composé|le futur simple|l'imparfait|le plus-que-parfait
+Quel est le pronom personnel pour "nous" ?|il|elle|on|nous|nous
+Quel est le temps de verbe pour "il a mangé" ?|le passé composé|le futur simple|le plus-que-parfait|l'imparfait|le passé composé
+Quel est le pronom relatif pour "dont" ?|dont|où|qui|quoi|dont
+Quel est le verbe irrégulier pour "vouloir" ?|pouvoir|aller|être|vouloir|vouloir
+Quel est l'adjectif démonstratif pour "ce chapeau" ?|celui-ci|ceux-ci|celle-ci|celles-ci|ce chapeau
+Quel est le pronom possessif pour "ton" ?|ton|son|leur|mes|ton
+Quel est l'adverbe pour "jamais" ?|jamais|toujours|peu|beaucoup|jamais
+Quel est l'article défini pour "le chat" ?|le|un|une|les|le
+Quel est le pronom interrogatif pour "pourquoi" ?|pourquoi|comment|qui|où|pourquoi
+Quel est l'article indéfini pour "chien" ?|un|une|le|les|un
+Quel est le pronom indéfini pour "quelqu'un" ?|quelqu'un|tout|personne|rien|quelqu'un
+Quel est le pronom réfléchi pour "il" ?|se|me|te|nous|se
+Quel est le pronom démonstratif pour "ces stylos" ?|ceux-ci|celle-ci|celui-ci|celles-ci|ces stylos
+Quel est l'article partitif pour "du café" ?|du|de la|de l'|des|du
+Quel est le temps de verbe pour "nous parlions" ?|l'imparfait|le passé composé|le futur simple|le plus-que-parfait|l'imparfait
