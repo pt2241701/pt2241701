@@ -1,0 +1,5 @@
+pygame
+PyQt5
+PyQt6
+matplotlib
+numpy
