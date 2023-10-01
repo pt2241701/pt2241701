@@ -36,7 +36,7 @@ class RegisterDialog(QDialog):
             self.noti2.setText("Tên người dùng đã tồn tại!")
         else:
             # Ghi dữ liệu vào tệp tin SQL
-            with open('data.sql', 'a') as sql_file:
+            with open('/project/data.sql', 'a') as sql_file:
                 sql_file.write(f"INSERT INTO USERS VALUES('{usernamesign}', '{emailsign}', '{passsign}');\n")
                 self.noti2.setText("ĐĂNG KÝ THÀNH CÔNG!!!")
         sys.exit()
