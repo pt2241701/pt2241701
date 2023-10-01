@@ -1,25 +1,28 @@
-import subprocess
-import pygame
-import os
-import sys
-from PyQt5.uic import loadUi
-from PyQt5 import QtWidgets, QtCore, QtGui
-from PyQt5.QtWidgets import QDialog, QApplication, QMainWindow
-from PyQt6 import QtCore, QtGui, QtWidgets
-from PyQt5.QtWidgets import *
-from PyQt5.QtChart import *
-from PyQt5.QtGui import *
-from PyQt5.QtCore import *
-import icons
-import sqlite3
-
-
+try:
+    import pygame
+    import os
+    import sys
+    from PyQt5.uic import loadUi
+    from PyQt5 import QtWidgets, QtCore, QtGui
+    from PyQt5.QtWidgets import QDialog, QApplication, QMainWindow
+    from PyQt6 import QtCore, QtGui, QtWidgets
+    from PyQt5.QtWidgets import *
+    from PyQt5.QtChart import *
+    from PyQt5.QtGui import *
+    from PyQt5.QtCore import *
+    import icons
+    import sqlite3
+    from PyQt5.QtChart import QChart, QChartView, QPieSeries
+except ImportError:
+    print("PIP INSTALL HET THU VIEN TRONG REQUIREMENTS DI")
 QApplication(sys.argv)
+
+
 ####################################loginregister#########################################
 class RegisterDialog(QDialog):
     def __init__(self, connection):
         super(RegisterDialog, self).__init__()
-        loadUi('register.ui', self)
+        loadUi('/project/register.ui', self)
         self.signup.clicked.connect(lambda: self.register(connection))
 
     def register(self, connection):
@@ -41,7 +44,7 @@ class RegisterDialog(QDialog):
 class LoginDialog(QDialog):
     def __init__(self):
         super(LoginDialog, self).__init__()
-        loadUi('login.ui', self)
+        loadUi('/project/login.ui', self)
         self.login.clicked.connect(self.loginn)
         self.register.clicked.connect(self.registere)
         self.successful = False
@@ -51,7 +54,7 @@ class LoginDialog(QDialog):
         cursor = self.connection.cursor()
 
         # Đọc tệp tin SQL và thực thi các câu lệnh
-        with open('data.sql', 'r') as sql_file:
+        with open('/project/data.sql', 'r') as sql_file:
             sql_script = sql_file.read()
             cursor.executescript(sql_script)
 
@@ -75,7 +78,7 @@ class LoginDialog(QDialog):
 ####################################loginregister#########################################      
 
 
-####################################hàm phụ###############################################
+####################################hàm phụ###############################################\
 def out():
         sys.exit()
 def format_text(text, max_chars_per_line=200):
@@ -97,18 +100,18 @@ class Question:
 class MainWindow(QMainWindow):
     def __init__(self, file_path_nghe, username):
         super(MainWindow, self).__init__()
-        loadUi(r'C:\project\ui.ui', self)
+        loadUi('/project/ui.ui', self)
         self.audio_files = []
         self.label_ten.setText(username)
-        for filename in os.listdir('C:/project/nghe'):
+        for filename in os.listdir('/project/nghe'):
             if filename.endswith('.mp3'):
-                self.audio_files.append(os.path.join('C:/project/nghe', filename))
+                self.audio_files.append(os.path.join('/project/nghe', filename))
 
         self.nghe.clicked.connect(lambda: self.stackedWidget.setCurrentWidget(self.page_nghe))
         self.dochieu.clicked.connect(lambda: self.stackedWidget.setCurrentWidget(self.page_dochieu))
         self.vanpham.clicked.connect(lambda: self.stackedWidget.setCurrentWidget(self.page_vanpham))
         self.trangchu.clicked.connect(lambda: self.stackedWidget.setCurrentWidget(self.page_trangchu))
-        self.menuBtn.clicked.connect(self.slideLeftMenu)
+        self.vebieudo.clicked.connect(self.piechart)
         self.skipButton.clicked.connect(self.skipQuestion)
         self.backButton.clicked.connect(self.backQuestion)
 
@@ -116,7 +119,7 @@ class MainWindow(QMainWindow):
         self.questions = []
         self.score = 0
         self.currentQuestionIndex = 0
-        with open('C:/project/file.txt', 'r', encoding='utf-8') as f:
+        with open('/project/file.txt', 'r', encoding='utf-8') as f:
             for line in f:
                 question, choiceA, choiceB, choiceC, choiceD, correctChoice = line.strip().split('|')
                 self.questions.append(Question(question, choiceA, choiceB, choiceC, choiceD, correctChoice))
@@ -141,7 +144,6 @@ class MainWindow(QMainWindow):
         self.correct_answers_nghe = []
         self.current_question_nghe = 0
         self.score_nghe = 0
-        self.load_questions_nghe()
         self.radio_buttons_nghe = []
         self.radio_buttons_nghe.append(self.radio_button_1)
         self.radio_buttons_nghe.append(self.radio_button_2)
@@ -160,7 +162,14 @@ class MainWindow(QMainWindow):
         vbox.addWidget(self.scorelabelnghe)
         vbox.addWidget(self.prev_button)
         self.setLayout(vbox)
+        self.load_questions_nghe()
         self.question_label_nghe.setText(self.questions_nghe[self.current_question_nghe])
+        for i in range(4):
+            radio_button = self.radio_buttons_nghe[i]
+            radio_button.setText(self.answers_nghe[self.current_question_nghe][i])
+            radio_button.setChecked(False)
+            radio_button.setStyleSheet("QRadioButton{color:black}")
+            radio_button.setEnabled(True)
         self.radio_button_1.toggled.connect(lambda:(self.radio_button_1))
         self.radio_button_2.toggled.connect(lambda:(self.radio_button_2))
         self.radio_button_3.toggled.connect(lambda:(self.radio_button_3))
@@ -177,7 +186,7 @@ class MainWindow(QMainWindow):
         # Thiết lập các thuộc tính khác
         self.correct_answer_dochieu = ''
         self.question_number_dochieu = 0
-        self.file_number_dochieu = 0
+        self.file_number_dochieu = 1
         self.question_history_dochieu = []
         self.score_dochieu = 0
         self.load_file()
@@ -188,17 +197,19 @@ class MainWindow(QMainWindow):
         self.next_file_button_dochieu.clicked.connect(self.load_file)
         self.back_question_button_dochieu.clicked.connect(self.back_question_dochieu)
         ######đọc hiểu################################################
-    
+        self.menuBtn.clicked.connect(lambda: self.slideLeftMenu())
+
     def slideLeftMenu(self):
         width = self.left_side_menu.width()
         if width == 50:
-            newWidth = 150
-        else :
+            newWidth = 107 
+        else:
             newWidth = 50
         self.animation = QPropertyAnimation(self.left_side_menu, b"minimumWidth")
         self.animation.setDuration(250)
         self.animation.setStartValue(width)
         self.animation.setEndValue(newWidth)
+        self.animation.setEasingCurve(QEasingCurve.InOutQuad)
         self.animation.start()
 ####################################backend văn phạm######################################
     def showQuestion(self, index):
@@ -285,8 +296,8 @@ class MainWindow(QMainWindow):
             self.user_answer = radio_button.text()
     def play_music_nghe(self):
         file_index = int(self.file_path_nghe.split('.')[0][-1])
-        audio_file_path = f"C:/project/nghe/{file_index}.mp3"
-        self.clear_selection_dochieu()
+        audio_file_path = f"/project/nghe/{file_index}.mp3"
+        self.clear_selection_nghe()
         try:
             pygame.mixer.init()
             pygame.mixer.music.load(audio_file_path)
@@ -318,8 +329,8 @@ class MainWindow(QMainWindow):
         pygame.mixer.init()
         pygame.mixer.music.set_volume(0)
         file_index = int(self.file_path_nghe.split('.')[0][-1])
-        next_file_path_nghe = f"C:/project/nghe/{file_index + 1}.txt"
-        self.clear_selection_dochieu()
+        next_file_path_nghe = f"/project/nghe/{file_index + 1}.txt"
+        self.clear_selection_nghe()
         try:
             with open(next_file_path_nghe, 'r', encoding='utf-8') as f:
                 lines = f.readlines()
@@ -345,8 +356,8 @@ class MainWindow(QMainWindow):
             print("Không tìm thấy file trắc nghiệm tiếp theo!")
     def load_next_file(self):
         file_index = int(self.file_path.split('.')[0][-1])
-        next_file_path = f"C:/project/nghe/{file_index + 1}.txt"
-        self.clear_selection_dochieu()
+        next_file_path = f"/project/nghe/{file_index + 1}.txt"
+        self.clear_selection_nghe()
         try:
             with open(next_file_path, 'r', encoding='utf-8') as f:
                 lines = f.readlines()
@@ -379,7 +390,7 @@ class MainWindow(QMainWindow):
             radio_button.setChecked(False)
             radio_button.setStyleSheet("QRadioButton{color:black}")
             radio_button.setEnabled(True)
-        self.clear_selection_dochieu()
+        self.clear_selection_nghe()
     def prev_questions_nghe(self):
         if self.current_question_nghe == 0:
             return
@@ -392,7 +403,7 @@ class MainWindow(QMainWindow):
             radio_button.setChecked(False)
             radio_button.setStyleSheet("QRadioButton{color:black}")
             radio_button.setEnabled(True)
-        self.clear_selection_dochieu()
+        self.clear_selection_nghe()
 
     def load_questions_nghe(self):
         with open(self.file_path_nghe, 'r', encoding='utf-8') as f:
@@ -402,21 +413,31 @@ class MainWindow(QMainWindow):
                 self.questions_nghe.append(parts[0])
                 self.answers_nghe.append(parts[1:5])
                 self.correct_answers_nghe.append(parts[5])
-                self.clear_selection_dochieu()
+                self.clear_selection_nghe()
+
+        
+        
+        
     def clear_selection_nghe(self):
         # Bỏ chọn tất cả các đáp án
-        self.radio_buttons_1.setChecked(False)
-        self.radio_buttons_2.setChecked(False)
-        self.radio_buttons_3.setChecked(False)
-        self.radio_buttons_4.setChecked(False)
+        self.radio_button_1.setChecked(False)
+        self.radio_button_2.setChecked(False)
+        self.radio_button_3.setChecked(False)
+        self.radio_button_4.setChecked(False)
 ####################################backend nghe##########################################
 
 
 
 ####################################backend đọc hiểu######################################
+    def clear_selection_dochieu(self):
+            # Bỏ chọn tất cả các đáp án
+            self.answer1_radio_dochieu.setChecked(False)
+            self.answer2_radio_dochieu.setChecked(False)
+            self.answer3_radio_dochieu.setChecked(False)
+            self.answer4_radio_dochieu.setChecked(False)
     def load_file(self):
         # Load file txt tiếp theo
-        file_path = f'C:/project/dochieu/{self.file_number_dochieu}.txt'
+        file_path = f'/project/dochieu/{self.file_number_dochieu}.txt'
         if os.path.exists(file_path):
             self.questions_dochieu = []
             with open(file_path, 'r', encoding='utf-8') as file:
@@ -502,7 +523,7 @@ class MainWindow(QMainWindow):
         # Quay lại câu hỏi trước đó trong lịch sử
         if len(self.question_history_dochieu) > 1:
             self.question_history_dochieu.pop() # Xóa câu hỏi hiện tại khỏi lịch sử
-            question = self.question_history_dochieu[-1] # Lấy câu hỏi trước đó trong lịchTiếp tục phần mã nguồn QuizApp:
+            question = self.question_history_dochieu[-1] # Lấy câu hỏi trước đó trong lịch
             self.question_label_dochieu.setText(question['question'])
             self.answer1_radio_dochieu.setText(question['answer1'])
             self.answer2_radio_dochieu.setText(question['answer2'])
@@ -515,6 +536,29 @@ class MainWindow(QMainWindow):
             self.answer2_radio_dochieu.setStyleSheet("QRadioButton { color: black; }")
             self.answer3_radio_dochieu.setStyleSheet("QRadioButton { color: black; }")
             self.answer4_radio_dochieu.setStyleSheet("QRadioButton { color: black; }")
+    def piechart(self,a,b,c):
+        self.score = a
+        self.score_dochieu = b
+        self.score_nghe = c
+        # Tạo series và thêm dữ liệu vào series
+        series = QPieSeries()
+        series.append("Score", a)
+        series.append("Score Dochieu", b)
+        series.append("Score Nghe", c)
+
+        # Tạo biểu đồ pie chart và thêm series vào biểu đồ
+        chart = QChart()
+        chart.addSeries(series)
+
+        # Tạo và cấu hình hiển thị biểu đồ
+        chart_view = QChartView(chart)
+        chart_view.setRenderHint(QChartView.Antialiasing)
+
+        # Đưa biểu đồ vào frame bieudo
+        layout = QVBoxLayout()
+        layout.addWidget(chart_view)
+        self.bieudo_frame.setLayout(layout)
+
 ####################################backend đọc hiểu######################################
 
 
@@ -526,6 +570,6 @@ if __name__ == '__main__':
     login = LoginDialog()
     login.exec_()
     if login.successful:
-        window = MainWindow(r'C:\project\nghe\1.txt', login.user1.text())
+        window = MainWindow('/project/nghe/1.txt', login.user1.text())
         window.show()
     sys.exit(app.exec_())
