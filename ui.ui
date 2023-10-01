@@ -80,7 +80,7 @@
       <enum>QFrame::NoFrame</enum>
      </property>
      <property name="currentIndex">
-      <number>0</number>
+      <number>1</number>
      </property>
      <widget class="QWidget" name="page_trangchu">
       <property name="cursor">
@@ -313,8 +313,8 @@ background-color:white;</string>
        <widget class="QFrame" name="bieudo">
         <property name="geometry">
          <rect>
-          <x>480</x>
-          <y>30</y>
+          <x>470</x>
+          <y>40</y>
           <width>451</width>
           <height>371</height>
          </rect>
@@ -504,7 +504,7 @@ background-color:white;</string>
         </font>
        </property>
        <property name="text">
-        <string>RadioButton</string>
+        <string/>
        </property>
        <property name="checkable">
         <bool>true</bool>
@@ -529,7 +529,7 @@ background-color:white;</string>
         </font>
        </property>
        <property name="text">
-        <string>RadioButton</string>
+        <string/>
        </property>
        <property name="checkable">
         <bool>true</bool>
@@ -554,7 +554,7 @@ background-color:white;</string>
         </font>
        </property>
        <property name="text">
-        <string>RadioButton</string>
+        <string/>
        </property>
        <property name="checkable">
         <bool>true</bool>
@@ -585,7 +585,7 @@ background-color:white;</string>
         </font>
        </property>
        <property name="text">
-        <string>RadioButton</string>
+        <string/>
        </property>
        <property name="checkable">
         <bool>true</bool>
@@ -1245,36 +1245,14 @@ background-color: rgb(233, 246, 255)</string>
            <iconset>
             <normaloff>icons/Custom-Icon-Design-Mono-General-3-Home.512.png</normaloff>icons/Custom-Icon-Design-Mono-General-3-Home.512.png</iconset>
           </property>
-         </widget>
-        </item>
-        <item row="1" column="0" colspan="2">
-         <widget class="QPushButton" name="nghe">
-          <property name="minimumSize">
-           <size>
-            <width>100</width>
-            <height>0</height>
-           </size>
+          <property name="autoDefault">
+           <bool>false</bool>
           </property>
-          <property name="font">
-           <font>
-            <weight>75</weight>
-            <bold>true</bold>
-           </font>
+          <property name="default">
+           <bool>true</bool>
           </property>
-          <property name="styleSheet">
-           <string notr="true">background-image:url(:/icons/icons/headphones.svg);
-background-repeat : none;
-background-position : center left;
-color: black;
-padding-left : 0px;
-background-color: rgb(233, 246, 255)</string>
-          </property>
-          <property name="text">
-           <string>NGHE</string>
-          </property>
-          <property name="icon">
-           <iconset>
-            <normaloff>icons/Steve-Zondicons-Headphones.512.png</normaloff>icons/Steve-Zondicons-Headphones.512.png</iconset>
+          <property name="flat">
+           <bool>true</bool>
           </property>
          </widget>
         </item>
@@ -1297,7 +1275,7 @@ background-color: rgb(233, 246, 255)</string>
 background-repeat : none;
 background-position : center left;
 color: black;
-padding-left : 20px;
+padding-left : 25px;
 background-color: rgb(233, 246, 255)</string>
           </property>
           <property name="text">
@@ -1306,6 +1284,12 @@ background-color: rgb(233, 246, 255)</string>
           <property name="icon">
            <iconset>
             <normaloff>icons/Icons8-Windows-8-Science-Literature.512.png</normaloff>icons/Icons8-Windows-8-Science-Literature.512.png</iconset>
+          </property>
+          <property name="default">
+           <bool>true</bool>
+          </property>
+          <property name="flat">
+           <bool>true</bool>
           </property>
          </widget>
         </item>
@@ -1328,7 +1312,7 @@ background-color: rgb(233, 246, 255)</string>
 background-repeat : none;
 background-position : center left;
 color: black;
-padding-left : 30px;
+padding-left : 31px;
 background-color: rgb(233, 246, 255)</string>
           </property>
           <property name="text">
@@ -1337,6 +1321,49 @@ background-color: rgb(233, 246, 255)</string>
           <property name="icon">
            <iconset>
             <normaloff>icons/Designcontest-Outline-Pencil.256.png</normaloff>icons/Designcontest-Outline-Pencil.256.png</iconset>
+          </property>
+          <property name="default">
+           <bool>true</bool>
+          </property>
+          <property name="flat">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="0" colspan="2">
+         <widget class="QPushButton" name="nghe">
+          <property name="minimumSize">
+           <size>
+            <width>100</width>
+            <height>0</height>
+           </size>
+          </property>
+          <property name="font">
+           <font>
+            <weight>75</weight>
+            <bold>true</bold>
+           </font>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">background-image:url(:/icons/icons/headphones.svg);
+background-repeat : none;
+background-position : center left;
+color: black;
+padding-left : 4px;
+background-color: rgb(233, 246, 255)</string>
+          </property>
+          <property name="text">
+           <string>NGHE</string>
+          </property>
+          <property name="icon">
+           <iconset>
+            <normaloff>icons/Steve-Zondicons-Headphones.512.png</normaloff>icons/Steve-Zondicons-Headphones.512.png</iconset>
+          </property>
+          <property name="default">
+           <bool>true</bool>
+          </property>
+          <property name="flat">
+           <bool>true</bool>
           </property>
          </widget>
         </item>
@@ -1362,7 +1389,7 @@ background-color: rgb(233, 246, 255)</string>
 background-repeat : none;
 background-position : center left;
 color: black;
-padding-left : 0px;
+padding-left : 2px;
 background-color: rgb(233, 246, 255)</string>
        </property>
        <property name="text">
@@ -1371,6 +1398,12 @@ background-color: rgb(233, 246, 255)</string>
        <property name="icon">
         <iconset>
          <normaloff>icons/Aniket-Suvarna-Box-Regular-Bx-log-out.512.png</normaloff>icons/Aniket-Suvarna-Box-Regular-Bx-log-out.512.png</iconset>
+       </property>
+       <property name="default">
+        <bool>true</bool>
+       </property>
+       <property name="flat">
+        <bool>true</bool>
        </property>
       </widget>
      </item>
@@ -1437,7 +1470,7 @@ background-color: rgb(233, 246, 255)</string>
        <x>20</x>
        <y>30</y>
        <width>50</width>
-       <height>41</height>
+       <height>51</height>
       </rect>
      </property>
      <property name="minimumSize">
@@ -1464,6 +1497,12 @@ background-color: rgb(233, 246, 255)</string>
      <property name="icon">
       <iconset>
        <normaloff>icons/Icons8-Windows-8-Very-Basic-Menu.512.png</normaloff>icons/Icons8-Windows-8-Very-Basic-Menu.512.png</iconset>
+     </property>
+     <property name="default">
+      <bool>true</bool>
+     </property>
+     <property name="flat">
+      <bool>false</bool>
      </property>
     </widget>
    </widget>

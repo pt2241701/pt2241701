@@ -109,7 +109,7 @@ class Ui_MainWindow(object):
         self.vebieudo.setFlat(True)
         self.bieudo = QFrame(self.thongtin)
         self.bieudo.setObjectName(u"bieudo")
-        self.bieudo.setGeometry(QRect(480, 30, 451, 371))
+        self.bieudo.setGeometry(QRect(470, 40, 451, 371))
         self.bieudo.setFrameShape(QFrame.Box)
         self.bieudo.setFrameShadow(QFrame.Raised)
         self.stackedWidget.addWidget(self.page_trangchu)
@@ -392,24 +392,10 @@ class Ui_MainWindow(object):
         icon7 = QIcon()
         icon7.addFile(u"icons/Custom-Icon-Design-Mono-General-3-Home.512.png", QSize(), QIcon.Normal, QIcon.Off)
         self.trangchu.setIcon(icon7)
+        self.trangchu.setAutoDefault(False)
+        self.trangchu.setFlat(True)
 
         self.formLayout.setWidget(0, QFormLayout.SpanningRole, self.trangchu)
-
-        self.nghe = QPushButton(self.left_menu_top_buttons)
-        self.nghe.setObjectName(u"nghe")
-        self.nghe.setMinimumSize(QSize(100, 0))
-        self.nghe.setFont(font)
-        self.nghe.setStyleSheet(u"background-image:url(:/icons/icons/headphones.svg);\n"
-"background-repeat : none;\n"
-"background-position : center left;\n"
-"color: black;\n"
-"padding-left : 0px;\n"
-"background-color: rgb(233, 246, 255)")
-        icon8 = QIcon()
-        icon8.addFile(u"icons/Steve-Zondicons-Headphones.512.png", QSize(), QIcon.Normal, QIcon.Off)
-        self.nghe.setIcon(icon8)
-
-        self.formLayout.setWidget(1, QFormLayout.SpanningRole, self.nghe)
 
         self.dochieu = QPushButton(self.left_menu_top_buttons)
         self.dochieu.setObjectName(u"dochieu")
@@ -419,11 +405,12 @@ class Ui_MainWindow(object):
 "background-repeat : none;\n"
 "background-position : center left;\n"
 "color: black;\n"
-"padding-left : 20px;\n"
+"padding-left : 25px;\n"
 "background-color: rgb(233, 246, 255)")
-        icon9 = QIcon()
-        icon9.addFile(u"icons/Icons8-Windows-8-Science-Literature.512.png", QSize(), QIcon.Normal, QIcon.Off)
-        self.dochieu.setIcon(icon9)
+        icon8 = QIcon()
+        icon8.addFile(u"icons/Icons8-Windows-8-Science-Literature.512.png", QSize(), QIcon.Normal, QIcon.Off)
+        self.dochieu.setIcon(icon8)
+        self.dochieu.setFlat(True)
 
         self.formLayout.setWidget(2, QFormLayout.SpanningRole, self.dochieu)
 
@@ -435,13 +422,31 @@ class Ui_MainWindow(object):
 "background-repeat : none;\n"
 "background-position : center left;\n"
 "color: black;\n"
-"padding-left : 30px;\n"
+"padding-left : 31px;\n"
 "background-color: rgb(233, 246, 255)")
-        icon10 = QIcon()
-        icon10.addFile(u"icons/Designcontest-Outline-Pencil.256.png", QSize(), QIcon.Normal, QIcon.Off)
-        self.vanpham.setIcon(icon10)
+        icon9 = QIcon()
+        icon9.addFile(u"icons/Designcontest-Outline-Pencil.256.png", QSize(), QIcon.Normal, QIcon.Off)
+        self.vanpham.setIcon(icon9)
+        self.vanpham.setFlat(True)
 
         self.formLayout.setWidget(3, QFormLayout.SpanningRole, self.vanpham)
+
+        self.nghe = QPushButton(self.left_menu_top_buttons)
+        self.nghe.setObjectName(u"nghe")
+        self.nghe.setMinimumSize(QSize(100, 0))
+        self.nghe.setFont(font)
+        self.nghe.setStyleSheet(u"background-image:url(:/icons/icons/headphones.svg);\n"
+"background-repeat : none;\n"
+"background-position : center left;\n"
+"color: black;\n"
+"padding-left : 4px;\n"
+"background-color: rgb(233, 246, 255)")
+        icon10 = QIcon()
+        icon10.addFile(u"icons/Steve-Zondicons-Headphones.512.png", QSize(), QIcon.Normal, QIcon.Off)
+        self.nghe.setIcon(icon10)
+        self.nghe.setFlat(True)
+
+        self.formLayout.setWidget(1, QFormLayout.SpanningRole, self.nghe)
 
 
         self.verticalLayout_2.addWidget(self.left_menu_top_buttons)
@@ -454,11 +459,12 @@ class Ui_MainWindow(object):
 "background-repeat : none;\n"
 "background-position : center left;\n"
 "color: black;\n"
-"padding-left : 0px;\n"
+"padding-left : 2px;\n"
 "background-color: rgb(233, 246, 255)")
         icon11 = QIcon()
         icon11.addFile(u"icons/Aniket-Suvarna-Box-Regular-Bx-log-out.512.png", QSize(), QIcon.Normal, QIcon.Off)
         self.exit_button.setIcon(icon11)
+        self.exit_button.setFlat(True)
 
         self.verticalLayout_2.addWidget(self.exit_button)
 
@@ -485,18 +491,19 @@ class Ui_MainWindow(object):
         self.francaisestlavie.setStyleSheet(u"color: black;")
         self.menuBtn = QPushButton(self.header)
         self.menuBtn.setObjectName(u"menuBtn")
-        self.menuBtn.setGeometry(QRect(20, 30, 50, 41))
+        self.menuBtn.setGeometry(QRect(20, 30, 50, 51))
         self.menuBtn.setMinimumSize(QSize(50, 0))
         self.menuBtn.setMaximumSize(QSize(50, 16777215))
         self.menuBtn.setFont(font)
         icon12 = QIcon()
         icon12.addFile(u"icons/Icons8-Windows-8-Very-Basic-Menu.512.png", QSize(), QIcon.Normal, QIcon.Off)
         self.menuBtn.setIcon(icon12)
+        self.menuBtn.setFlat(False)
         MainWindow.setCentralWidget(self.centralwidget)
 
         self.retranslateUi(MainWindow)
 
-        self.stackedWidget.setCurrentIndex(0)
+        self.stackedWidget.setCurrentIndex(1)
         self.vebieudo.setDefault(True)
         self.prev_button.setDefault(True)
         self.play_button.setDefault(True)
@@ -511,6 +518,12 @@ class Ui_MainWindow(object):
         self.skipButton.setDefault(True)
         self.backButton.setDefault(True)
         self.nextButton.setDefault(True)
+        self.trangchu.setDefault(True)
+        self.dochieu.setDefault(True)
+        self.vanpham.setDefault(True)
+        self.nghe.setDefault(True)
+        self.exit_button.setDefault(True)
+        self.menuBtn.setDefault(True)
 
 
         QMetaObject.connectSlotsByName(MainWindow)
@@ -534,10 +547,10 @@ class Ui_MainWindow(object):
         self.next_button.setText(QCoreApplication.translate("MainWindow", u"Next", None))
         self.check_button.setText(QCoreApplication.translate("MainWindow", u"Check", None))
         self.scorelabelnghe.setText("")
-        self.radio_button_1.setText(QCoreApplication.translate("MainWindow", u"RadioButton", None))
-        self.radio_button_3.setText(QCoreApplication.translate("MainWindow", u"RadioButton", None))
-        self.radio_button_2.setText(QCoreApplication.translate("MainWindow", u"RadioButton", None))
-        self.radio_button_4.setText(QCoreApplication.translate("MainWindow", u"RadioButton", None))
+        self.radio_button_1.setText("")
+        self.radio_button_3.setText("")
+        self.radio_button_2.setText("")
+        self.radio_button_4.setText("")
         self.switch_file_button.setText(QCoreApplication.translate("MainWindow", u"Qua b\u00e0i m\u1edbi", None))
         self.check_button_dochieu.setText(QCoreApplication.translate("MainWindow", u"Ki\u1ec3m tra", None))
         self.next_question_button_dochieu.setText(QCoreApplication.translate("MainWindow", u"C\u00e2u h\u1ecfi ti\u1ebfp theo", None))
@@ -551,9 +564,9 @@ class Ui_MainWindow(object):
         self.backButton.setText(QCoreApplication.translate("MainWindow", u"Back", None))
         self.nextButton.setText(QCoreApplication.translate("MainWindow", u"Next", None))
         self.trangchu.setText(QCoreApplication.translate("MainWindow", u"TRANG CH\u1ee6", None))
-        self.nghe.setText(QCoreApplication.translate("MainWindow", u"NGHE", None))
         self.dochieu.setText(QCoreApplication.translate("MainWindow", u"\u0110\u1eccC HI\u1ec2U", None))
         self.vanpham.setText(QCoreApplication.translate("MainWindow", u"V\u0102N PH\u1ea0M", None))
+        self.nghe.setText(QCoreApplication.translate("MainWindow", u"NGHE", None))
         self.exit_button.setText(QCoreApplication.translate("MainWindow", u"EXIT", None))
         self.francaisestlavie.setText(QCoreApplication.translate("MainWindow", u"FRANCAIS EST LA VIE", None))
         self.menuBtn.setText(QCoreApplication.translate("MainWindow", u"MENU", None))
